@@ -1,0 +1,24 @@
+2026-05-07 20:08:56.915 +05:30 [INF] Now listening on: https://localhost:7161
+2026-05-07 20:08:56.944 +05:30 [INF] Now listening on: http://localhost:5224
+2026-05-07 20:08:56.975 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-07 20:08:56.976 +05:30 [INF] Hosting environment: Development
+2026-05-07 20:08:56.977 +05:30 [INF] Content root path: E:\dotnet\Hospital-Management-System\HMS.api
+2026-05-07 20:08:57.540 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7161/swagger/index.html - null null
+2026-05-07 20:08:57.661 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7161/swagger/index.html - 304 null null 122.5478ms
+2026-05-07 20:08:57.683 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7161/swagger/swagger-ui.css - null null
+2026-05-07 20:08:57.683 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7161/swagger/swagger-ui-bundle.js - null null
+2026-05-07 20:08:57.683 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7161/swagger/index.css - null null
+2026-05-07 20:08:57.683 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7161/swagger/swagger-ui-standalone-preset.js - null null
+2026-05-07 20:08:57.683 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7161/_framework/aspnetcore-browser-refresh.js - null null
+2026-05-07 20:08:57.685 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7161/swagger/index.js - null null
+2026-05-07 20:08:57.689 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7161/_vs/browserLink - null null
+2026-05-07 20:08:57.698 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7161/swagger/index.js - 304 null null 12.6486ms
+2026-05-07 20:08:57.704 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7161/swagger/index.css - 304 null null 20.3689ms
+2026-05-07 20:08:57.704 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7161/swagger/swagger-ui.css - 304 null null 20.3689ms
+2026-05-07 20:08:57.704 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7161/_framework/aspnetcore-browser-refresh.js - 200 14919 application/javascript; charset=utf-8 20.0848ms
+2026-05-07 20:08:57.704 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7161/swagger/swagger-ui-standalone-preset.js - 304 null null 20.3065ms
+2026-05-07 20:08:57.704 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7161/swagger/swagger-ui-bundle.js - 304 null null 20.9439ms
+2026-05-07 20:08:57.730 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7161/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.3873ms
+2026-05-07 20:08:57.803 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7161/swagger/v1/swagger.json - null null
+2026-05-07 20:08:57.811 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7161/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.6657ms
+2026-05-07 20:11:59.958 +05:30 [INF] Application is shutting down...

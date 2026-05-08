@@ -21,7 +21,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HMS.Bussiness\HMS.Bussiness.csproj" />
-    <ProjectReference Include="..\HMS.Data\HMS.Data.csproj" />
   </ItemGroup>
 
 </Project>

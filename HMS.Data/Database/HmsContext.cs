@@ -1,4 +1,4 @@
-using HMS.Data.Model;
+using HMS.Data.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace HMS.Data.Database
